@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Coming Soon</b>
-  - [Active Directory](https://github.com/bfdwill/)
+- <b>W.I.P</b>
+  - [OPNsense Deployment](https://github.com/bfdwill/)
 - <b>Recommend some ideas</b>
 <h2> 🤳 Connect with me:</h2>
 

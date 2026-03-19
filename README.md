@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>W.I.P</b>
-  - [OPNsense Deployment](https://github.com/bfdwill/)
+  - [Homelab Security Project](https://github.com/bfdwill/thetrenches)
 - <b>Recommend some ideas</b>
 <h2> 🤳 Connect with me:</h2>
 
